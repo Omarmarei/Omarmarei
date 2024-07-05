@@ -16,5 +16,5 @@ Hi, I'm Omar, a passionate full-stack web developer specializing in Python, PHP,
 - **CMS:** WordPress, OpenCart , Drupal
 - **Tools:** Bootstrap, Materialize, Tailwind CSS, Apache, Google Cloud, AWS, Heroku, WAMP stack , MEAN stack
 - **Databases:** SQL, Sqlite3, MySQL, PostgreSQL
-- **Others:** GIT Bash, WSL2, PowerShell, Heroku, Windows, Ubuntu, Kali, Linux, Visual Studio Code, Atom, Jupyter Notebook
+- **Others:** GIT Bash, WSL2, PowerShell, Heroku, Windows, Ubuntu, Kali, Linux, Visual Studio Code, Atom, Jupyter Notebook, Postman
 
