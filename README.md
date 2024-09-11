@@ -1,6 +1,8 @@
 # Hi there 👋
 
-Hi, I'm Omar, a passionate full-stack web developer specializing in Python, PHP, and JavaScript. I graduated as a mechanical engineer, but I've always had a deep love for computers and technology since my school days. Back then, I enjoyed rooting Android and using Linux Ubuntu instead of windows, and I've continued exploring various tools and technologies ever since. Although my professional career has been in mechanical equipment business development and sales, my heart has always been set on tech. I'm now excited to shift my career towards my true passion in full-stack web development.
+Hi, I'm Omar, a tech enthusiast with a strong foundation in business development. Although my professional background is in mechanical equipment business development and sales, I've always been deeply passionate about technology. From my school days, where I enjoyed rooting Android devices and experimenting with Linux Ubuntu, I've constantly explored new tools and technologies. Over time, I've developed a keen interest in programming, particularly in full-stack web development with Python, PHP, and JavaScript.
+
+Now, I'm eager to transition into a career that combines my expertise in business development with my acquired programming skills. I'm looking forward to roles like Technical Product Manager, Solutions Architect, or Business Development Engineer in Tech, where I can leverage both my business acumen and my passion for technology.
 
 - 🔭 I’m currently working on enhancing React applications  with custom components.
 - 🌱 I’m currently learning Redux and Next.js.
