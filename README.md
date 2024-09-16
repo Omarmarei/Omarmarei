@@ -11,12 +11,17 @@ Now, I'm eager to transition into a career that combines my expertise in busines
 - 💬 Ask me about web development, Business analysis,  or business Development.
 - ⚡ Fun fact: I love discovering the underwater world while scuba diving.
 
+
 ## Skills & Tools
 
-- **Languages:** Python, PHP, C#, HTML5, CSS3, JavaScript, NodeJS
-- **Frameworks:** Flask, Django, React, Express, 
-- **CMS:** WordPress, OpenCart , Drupal
-- **Tools:** Bootstrap, Materialize, Tailwind CSS, Apache, Google Cloud, AWS, Heroku, WAMP stack , MEAN stack
-- **Databases:** SQL, Sqlite3, MySQL, PostgreSQL
-- **Others:** GIT Bash, WSL2, PowerShell, Heroku, Windows, Ubuntu, Kali, Linux, Visual Studio Code, Atom, Jupyter Notebook, Postman
-
+- **Languages:** Python, JavaScript, PHP, C#, HTML5, CSS3, Node.js
+- **Frameworks & Libraries:** Flask, Django, React, Express, Bootstrap, Materialize, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, SQLite, SQL
+- **CMS & E-commerce:** WordPress, OpenCart, Drupal
+- **Cloud & Deployment:** Google Cloud, AWS, Heroku, Apache
+- **Development Stacks:** WAMP, MEAN
+- **Version Control:** Git
+- **Operating Systems:** Windows, Ubuntu, Kali Linux
+- **Development Tools:** Visual Studio Code, Atom, Jupyter Notebook, Postman
+- **Environments:** WSL2, PowerShell, Bash
+- **Other Technologies:** RESTful APIs, Responsive Design
