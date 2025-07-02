@@ -1,15 +1,54 @@
 # Hi there 👋
 
-Hi, I'm Omar, a tech enthusiast with a strong foundation in business development. Although my professional background is in mechanical equipment business development and sales, I've always been deeply passionate about technology. From my school days, where I enjoyed rooting Android devices and experimenting with Linux Ubuntu, I've constantly explored new tools and technologies. Over time, I've developed a keen interest in programming, particularly in full-stack web development with Python, PHP, and JavaScript.
 
-Now, I'm eager to transition into a career that combines my expertise in business development with my acquired programming skills. I'm looking forward to roles like Technical Product Manager, Solutions Architect, or Business Development Engineer in Tech, where I can leverage both my business acumen and my passion for technology.
+Hi, I’m Omar — From Business Strategy to Agile Product Execution
 
-- 🔭 I’m currently working on enhancing React applications  with custom components.
-- 🌱 I’m currently learning Redux and Next.js.
-- 👯 I’m looking to collaborate on innovative web development projects.
-- 🤔 I’m looking for help with mastering advanced topics in React and Django.
-- 💬 Ask me about web development, Business analysis,  or business Development.
-- ⚡ Fun fact: I love discovering the underwater world while scuba diving.
+I come from a strong business development background in the mechanical equipment industry, but my passion has always been in technology and digital innovation. From rooting Android devices in high school to experimenting with Linux and open-source tools, I’ve always been curious about how things work—and how to make them better.
+
+Over the past few years, I’ve taken that curiosity further by diving into full-stack web development, agile product ownership, and business analysis. I’ve built projects using Python, PHP, JavaScript, React, and Django, and I use this technical foundation to bridge the gap between business goals and software delivery.
+
+
+---
+
+🧠 What I’ve Been Working On
+
+Developed and iterated multiple React applications with custom UI components and state management
+
+Built end-to-end prototypes using Django and Flask for business logic and backend workflows
+
+Created project documentation, user stories, and simple product roadmaps to practice real-world product ownership
+
+Explored Next.js, Redux, and system architecture to understand how modern web apps scale
+
+Used tools like GitHub Projects and Jira-style boards to simulate agile workflows and backlog grooming
+
+
+
+---
+
+🚀 My Transition Focus
+
+I'm now open to roles like Product Owner, Product Manager, or Business Analyst in tech—where I can combine my business background with hands-on product development experience.
+
+I'm also currently enrolled in an MBA program to deepen my skills in digital transformation, strategic planning, and tech-enabled business models.
+
+Let’s Connect
+
+I'm always open to collaboration on innovative, user-centered software projects
+
+I’d love to contribute to product discovery, agile delivery, or business case validation
+
+Passionate about continuous learning—especially in AI for business, UX research, and data-driven decision-making
+
+
+
+---
+
+💬 Ask me about product ownership, business analysis, agile delivery—or how to pivot into tech from a business background.
+
+🌊 Fun fact: I’m a certified scuba diver—there’s nothing like exploring new depths to clear your mind and reset your thinking.
+
+
 
 
 ## Skills & Tools
